@@ -5,7 +5,7 @@ Repositório com o projeto final do curso [Capstone: Retrieving, Processing, and
 ---
 
 ## 📜 Certificado
-🔗 [Ver certificado no Coursera](COLE_AQUI_SEU_LINK_QUANDO_CONCLUIR)
+🔗 [Ver certificado no Coursera](https://www.coursera.org/account/accomplishments/specialization/20LE0S2QU2D9))
 
 ---
 
